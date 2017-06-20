@@ -34,3 +34,4 @@
 |晨鹤            |Mojo-Webqq       |  10     |
 |请叫我雷锋    | Mojo-Webqq     | 168   |
 |iris          | Mojo-Webqq     | 20    |
+|易拉罐        | Mojo-Weixin    | 9.99  |
