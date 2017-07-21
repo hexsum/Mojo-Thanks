@@ -36,5 +36,5 @@
 |iris          | Mojo-Webqq     | 20    |
 |中保          | Mojo-Weixin     | 18        |
 |易拉罐       | Mojo-Weixin     | 9.99     |
-|Yeso         |   -                     | 66        |
-|木头          | Mojo-Weixin     | 888.88  |
+|Yeso         |   -      | 66        |
+|木头          | Mojo-Weixin    | 888.88  |
