@@ -45,4 +45,4 @@
 |Apoi2333       | -     | 23.33 |
 |宋先生         | Mojo-Webqq | 50 |
 |KY             | Mojo-Weixin| 102.4 |
-|呀呀           | Mojo-Weixin| 50    |
+|呀呀           | Mojo-Weixin| 150    |
