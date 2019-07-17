@@ -54,3 +54,5 @@
 |*异史氏      | Mojo-Weixin  | 10 |
 |*华          |Mojo-Webqq   | 5  |
 |*宇舰        | -           | 0.01 |
+|*长乐        |Mojo-Weixin  | 30   |
+
